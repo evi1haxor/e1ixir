@@ -4,4 +4,4 @@ title: "Timeline"
 draft: false
 ---
 
-_15th June_ **Published the [website](http://localhost:1313/e1ixir/ "E1ixir")**
+_16th June, 2018_ **Published the [website](http://e1ixir.netlify.com/ "E1ixir")**
