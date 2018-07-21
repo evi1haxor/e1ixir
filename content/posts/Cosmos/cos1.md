@@ -1,6 +1,6 @@
 ---
-title: "Hi!"
-date: 2018-06-15T00:46:53+05:30
+title: "Cosmological Touch to some Hot Questions"
+date: 2018-07-21T00:46:53+05:30
 draft: false
 ---
 
