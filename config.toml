@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     description = "A Sorry Little affair. Blame: Archit Dwivedi." # Site description.
     keywords = "blog,developer,personal" # Site keywords.
 
-    disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
+    disqusShortname = "http-evi1haxor-github-io" # Enable or disable Disqus
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
