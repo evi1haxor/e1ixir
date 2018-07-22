@@ -24,6 +24,9 @@ I'm on [Facebook](https://facebook.com/archit.dwivedi.1848/). I won't force you 
 
 You might find most of my content on Twitter or Facebook or Telegram channel, same. That's because I use [IFTTT](http://ifttt.com). Tho, some out of many won't be same (for example, Twitter API that ifttt use, doesn't post direct retweets without comments). And I'm lazy enough to change the applets for them.
 
-An appeal: **THIS PAGE IS SUSCEPTIBLE TO UPDATES.** Well, you don't expect me to be a man of *one* kind of interest throughout the life. Do you? As I get more on me, this page shall be updated. So keep an eye on the timeline page, if you want to, ofcourse.
+An appeal: **THIS PAGE IS SUSCEPTIBLE TO UPDATES.** Well, you don't expect me to be a man of *one* kind of interest throughout the life. Do you? As I get more on me, this page shall be updated. So keep an eye on the timeline page, if you want to, ofcourse. Second thing is— you might find the post a little shabbily maintained. I need to work on *Texonomies* for that. I'll do it as I get a machine to work on (short on resources here!)
+
 
 So here I welcome you aboard! It's time to set sail from anguish to whimsy turmoil via debilitating lethargy.
+
+
