@@ -56,3 +56,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "Timeline"
     weight = 3
     url  = "/timeline/"
+[[menu.main]]
+    name = "Quotes"
+    weight = 4
+    url  = "/quote/"
