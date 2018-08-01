@@ -32,27 +32,18 @@ draft: false
 
 *Neither exhibition, nor inhibition, but presentation.*
 
----------------------------
 
-*I can*
+--------------------------
 
-*Always compliment*
+*Watch your thoughts, they become your words*
 
-*Never criticise, but welcome your own criticism*
+*Watch your words, they become your actions*
 
-*Compare and compete with yourself*
+*Watch your actions, they become your habits*
 
----------------------------
+*Watch your habits, they become your character*
 
-*Watch your thoughts, they become words*
-
-*Watch your words, they become actions*
-
-*Watch your actions, they become habits*
-
-*Watch your habits, they become character*
-
-*Watch your character, they become destiny*
+*Watch your character, they become your destiny*
 
 ---------------------------
 
