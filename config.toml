@@ -45,7 +45,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [[params.social]]
     name = "Quotes"
     weight = 4
-    url = https://github.com/evi1haxor/e1ixir/blob/master/content/quote.md
+    url = "https://github.com/evi1haxor/e1ixir/blob/master/content/quote.md"
 
 # Menu links
 [[menu.main]]
