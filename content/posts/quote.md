@@ -1,6 +1,10 @@
-# Quote post
+---
+title: "Quotes and phrases"
+date: 2018-08-01T00:46:53+05:30
+draft: false
+---
 
-> This concept of quote post on my website was inspired by a friend's [Blag](https://xypnox.github.io/blag/quotes/)
+> This concept of quote post on my website was inspired by a friend's [Blag](https://xypnox.github.io/blag/quotes/) thence it is derived
 
 *Be a part of solution, and not the problem...*
 
