@@ -1,6 +1,6 @@
 ---
 title: "Quotes and phrases"
-date: 2018-08-01T00:46:53+05:30
+#date: 2018-08-01T00:46:53+05:30
 draft: false
 ---
 
@@ -10,11 +10,11 @@ draft: false
 
 ---------------------------
 
-*कुछ लिख के सो, कुछ पढ़ के सो,
+ कुछ लिख के सो, कुछ पढ़ के सो,
 
  जिस जगह से जगा सवेरे,
 
- उस जगह से बढ़ के सो।*
+ उस जगह से बढ़ के सो।
 
 ---------------------------
 
@@ -58,5 +58,14 @@ draft: false
 *Be you, I'm taken* ~Gary Vaynerchuk
 
 ---------------------------
+
+*Research is to see what everybody else has seen, and to think what nobody else has thought.*
+
+---------------------------
+
+*When performance exceeds ambition, the overlap is called success.*
+
+© Cullen Hightower
+
 
 
