@@ -1,6 +1,6 @@
 ---
 title: "Quotes and phrases"
-date: null
+
 draft: false
 ---
 
