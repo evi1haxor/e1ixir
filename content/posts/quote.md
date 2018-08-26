@@ -1,6 +1,6 @@
 ---
 title: "Quotes and phrases"
-#date: 2018-08-01T00:46:53+05:30
+date: false
 draft: false
 ---
 
