@@ -1,6 +1,6 @@
 ---
 title: "Quotes and phrases"
-date: 2018-08-01T00:46:53+05:30
+#date: 2018-08-01T00:46:53+05:30
 draft: false
 ---
 
@@ -66,6 +66,7 @@ draft: false
 *When performance exceeds ambition, the overlap is called success.*
 
 © Cullen Hightower
+
 
 
 
