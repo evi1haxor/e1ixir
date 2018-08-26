@@ -14,4 +14,4 @@ _22nd July, 2018_ **Posted [Article on Aadhar](http://e1ixir.netlify.com/posts/a
 
 _1st August, 2018_ **Posted [Quotes and Phrases](http://e1ixir.netlify.com/posts/quote/)**
 
-_26th August, 2018_ **Posted [$Termux$](http://e1ixir.netlify.com/posts/termux/)
+_26th August, 2018_ **Posted [$Termux$](http://e1ixir.netlify.com/posts/termux/)**
