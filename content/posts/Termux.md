@@ -40,16 +40,15 @@ then type and enter <br>
 ```$ fish``` <br>
 on the terminal to enter the fish mode.<br><br>
 ## A few must have packages 
-```
-$ apt install git
-$ apt install vim
-$ apt install clang
-$ apt install g++
-$ apt install cowsay
-$ apt install fortune
-$ apt install sl
-$ apt install toilet
-```
+```$ apt install git```
+$ apt install vim```
+$ apt install clang```
+$ apt install g++```
+$ apt install cowsay```
+$ apt install fortune```
+$ apt install sl```
+$ apt install toilet```
+
 
 There are many more, I'll add them, with their functions and specs, as I get. 
 <br>
