@@ -12,16 +12,12 @@ Apart from Termux app, there are several add-on apps which should be downloaded.
 ## Setting up the terminal
 I recommend you to check for updates and upgrades for termux based systems, for example for setting up termux storage, and some more. For this, run the following command on the CLI.<br>
 
-```
-$ apt update && upgrade
-``` 
+```$ apt update && upgrade``` 
 
 
 After this, it is suggested to install `coreutils` before moving on. Most of them (like `ls` and `mv` etc.) come pre-installed, but just to stand on the safe side, it is good to refresh them by running <br>
 
-```
-$ apt install coreutils
-``` 
+```$ apt install coreutils``` 
 
 
 Next step is to set up storage. Just to brief you about the termux storage, there are three types of storage in Termux.
