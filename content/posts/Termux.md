@@ -1,3 +1,9 @@
+---
+title: "$Termux$"
+date: 2018-08-26T00:46:53+05:30
+draft: false
+---
+
 Termux is Linux terminal emulator on Android which supports Linux packages and uses APT package manager. It's a free app and can be downloaded either from [Play store](https://play.google.com/store/apps/details?id=com.termux) or from [F-droid](https://f-droid.org/en/packages/com.termux/). It comes very handy when you are out of good machine. Although I discourage using termux if you already have a laptop or desktop. However, no strings on you! You can use it anyway.<br><br>
 One more thing you should know as a prerequisite is that while downloading, you should not mix the downloads from F-droid and playstore. They ain't mutually compatible. This is because each download website uses a specific key for keysigning Termux and Addons.<br><br>
 Here I'm going to give a concise idea about Termux and how to set it up.<br><br><br>
