@@ -2,6 +2,7 @@
 title: "Scientific Methods and Experiment Designing"
 date: 2018-09-02T00:46:53+05:30
 draft: false
+author: "Archit Dwivedi"
 ---
 
 
