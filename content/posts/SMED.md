@@ -16,7 +16,7 @@ That would be so awful if I start explaining to you the importance of Science an
 
 For performing sophisticated experiments, a smart experiment design is very crucial. Let me be very clear here that I haven't been engaged in any high scale research work yet, though my room at my home is something of a lab in itself, and from my experience in _room converted to lab_ research work, I can say that having a good experimental design is half work done. As it avoids most of the prescient problems that you think, might come.
 
-Also, it is of important to know the limits of your experiment and to form testable hypothesis for the observations. I think that's logical enough...
+Also, it is of importance to know the limits of your experiment and to form testable hypothesis for the observations. I think that's logical enough...
 
 
 ## Experiment Designing
