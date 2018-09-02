@@ -33,9 +33,9 @@ Those which are in Control group are not tested. A set of what is being studied,
 They are the ones whose factors are varied for studying the effects.
 
 #### Variables:
-Variables are the factors or conditions which can be controlled so as to record the cause-effect relationship. There are three types of scientific variables-
-1. **Independent Variables-** The factors which are _subjected for_ changes so that effects can be seen.
-2. **Dependent Variables-** The factors which are _subjected to_ changes as the independent variables are manipulated.
+Variables are the factors or conditions which can be controlled so as to record the cause-effect relationship. There are three types of scientific variables-<br>
+1. **Independent Variables-** The factors which are _subjected for_ changes so that effects can be seen.<br>
+2. **Dependent Variables-** The factors which are _subjected to_ changes as the independent variables are manipulated.<br>
 3. **Control Variables-** These are the outcome of the fact that not all variables can be manipulated in control. So they are the factors which the researchers try to keep deliberately constant so that there can be a clear distinction of them from independent variables. They are also called **Constant Variables**.
 
 
