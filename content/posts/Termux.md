@@ -52,6 +52,7 @@ on the terminal to enter the fish mode.<br><br>
 
 ```$ apt install toilet```
 
+> For extra keys overlay, do: (volume up + q)
 
 There are many more, I'll add them, with their functions and specs, as I get. 
 <br>
