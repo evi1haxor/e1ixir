@@ -17,3 +17,7 @@ _1st August, 2018_ **Posted [Quotes and Phrases](http://e1ixir.netlify.com/posts
 _26th August, 2018_ **Posted [$Termux$](http://e1ixir.netlify.com/posts/termux/)**
 
 _2nd September, 2018_ **Posted [Scientific Methods amd Experiment Designing](http://e1ixir.netlify.com/posts/smed/)**
+
+_28th October, 2018_ **Posted [Notes: Pointers in C](http://e1ixir.netlify.com/posts/pointers/)**
+
+_28th October, 2018_ **Updated [Brainiac](http://e1ixir.netlify.com/about/)
