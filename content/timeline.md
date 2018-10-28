@@ -4,7 +4,7 @@ title: "Timeline"
 draft: false
 ---
 
-_16th June, 2018_ **Published the [website](http://e1ixir.netlify.com/ "E1ixir")**
+_16th June, 2018_ **Published the [Website](http://e1ixir.netlify.com/ "E1ixir")**
 
 _21st July, 2018_ **Updated [Brainiac](http://e1ixir.netlify.com/about/)**
 
@@ -20,4 +20,6 @@ _2nd September, 2018_ **Posted [Scientific Methods amd Experiment Designing](htt
 
 _28th October, 2018_ **Posted [Notes: Pointers in C](http://e1ixir.netlify.com/posts/pointers/)**
 
-_28th October, 2018_ **Updated [Brainiac](http://e1ixir.netlify.com/about/)
+_28th October, 2018_ **Updated [Brainiac](http://e1ixir.netlify.com/about/)**
+
+_28th October, 2018_ **Added in [Notes: Pointers in C](http://e1ixir.netlify.com/posts/pointers/)**
