@@ -30,49 +30,33 @@ where `type` and `var_name` is any valid datatype and variable name(name of the 
 > The operand of `&` can an ordinary variable but the operand of `*` can only be a pointer variable.
 
 ### Dereferencing
-The term refers to changing/accessing state of the pointer.<br>
+The term refers to changing/accessing state of the pointer.
+
 - Asterisk(`*`) indirection operator is used along with pointer variable while dereferencing the pointer variable.
 - Asterisk Operator is also called as value at operator
 - When used with Pointer variable, it refers to variable being pointed to,this is called as Dereferencing of Pointers.
 - Dereferencing Operation is performed to access or manipulate data contained in memory location pointed to by a pointer
 - Any Operation performed on the de-referenced pointer directly affects the value of variable it pointes to.
 
-```
-// Sample Code for Dereferencing of Pointer
-int n = 50 , x ;
-
-int *ptr ; // Un-initialized Pointer
-
-ptr = &n; // Stores address of n in ptr
-
-x = *ptr; // Put Value at ptr in x
-```
+```// Sample Code for Dereferencing of Pointer``` <br>
+```int n = 50 , x ;``` <br>
+```int *ptr ; // Un-initialized Pointer``` <br>
+```ptr = &n; // Stores address of n in ptr``` <br>
+```x = *ptr; // Put Value at ptr in x``` <br>
 
 ### Precaution
 - Pointer variable must always point to the correct type of data.
-```
-float a, b;
-int *p;
-scanf("%f", a);        // reads the float value for a
-p = &a;                // store the address of a into iptr
-b = *p;                // store the value pointed to a by iptr into b
-```
+```float a, b;``` <br>
+```int *p;``` <br>
+```scanf("%f", a);        // reads the float value for a``` <br>
+```p = &a;                // store the address of a into iptr``` <br>
+```b = *p;                // store the value pointed to a by iptr into b``` <br>
 The above code intended to assign the value of `a` and `b` through the use of pointers, but it will not produce the desired result. Because `iptr` is an integer pointer and `b` is a float.
+
 > Thus, making pointer point to incorrect datatype may lead to loss of information.
 
 - Pointer variable must not remain uninitialized as it may result into system crashing. Even if legal value of the pointer is not known, it must be initialized with `NULL` pointer value.
-```
-int *ptr = NULL;      // initialized with NULL
-.
-.
-.
-if(ptr != NULL){      //check if ptr is pointing to legal address
-.
-.
-.
-.
-}
-```
+```int *ptr = NULL;      // initialized with NULL<br>.<br>.<br>.<br>if(ptr != NULL){      //check if ptr is pointing to legal address<br>.<br>.<br>.<br>.<br>}```
 
 ## void Pointer
 > void pointer is called general purpose pointer.
