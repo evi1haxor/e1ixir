@@ -13,20 +13,18 @@ Pointers are the variables that holds a memory address, usually the location of 
 type * var_name
 ```
 <br>
-where `type` and `var_name` is any valid datatype and variable name(name of the pointer) respectively. <br> Some valid declarations are- <br>
-<br>
+where `type` and `var_name` is any valid datatype and variable name(name of the pointer) respectively. <br> Some valid declarations are-
+
 ```
 int *iptr;          //creates an integer pointer
-
 char *cptr;         //creates a character pointer
-
 float *fptr;        //creates a float pointer
 ```
-<br>
-- Two operators, `*` and `&` are used with Pointers. <br>
-```
-int i = 25;           // declares an int variable
 
+- Two operators, `*` and `&` are used with Pointers.
+
+```
+int i = 25;           // declares an int variable <br>
 int *iptr;            // declares an int pointer <br>
 iptr = &i;            // stores the memory address of i into iptr
 ```
