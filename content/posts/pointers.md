@@ -8,23 +8,30 @@ draft: false
 Pointers are the variables that holds a memory address, usually the location of another variable in memory. Pointers are one of the strongest and also one of the most dangerous and vulnerable features of C/C++. For instance, *uninitialized*, or *wild pointers* can cause your system to crash. Perhaps worse, it is easy to use pointers incorrectly, causing bugs that are very difficult to find. So it makes it important to grasp the concept in order to exploit its power and use it without creating much problems to your program. Lets just dive into the technicalities without any further delay!
 
 ## Declaration and initialization of pointers
-- Unary * character is used for the declaration of Pointers.
+- Unary * character is used for the declaration of Pointers. <br>
 ```
 type * var_name
 ```
-where `type` and `var_name` is any valid datatype and variable name(name of the pointer) respectively. <br> Some valid declarations are= <br>
+<br>
+where `type` and `var_name` is any valid datatype and variable name(name of the pointer) respectively. <br> Some valid declarations are- <br>
+<br>
 ```
 int *iptr;          //creates an integer pointer
+
 char *cptr;         //creates a character pointer
+
 float *fptr;        //creates a float pointer
 ```
-- Two operators, `*` and `&` are used with Pointers.
+<br>
+- Two operators, `*` and `&` are used with Pointers. <br>
 ```
 int i = 25;           // declares an int variable
-int *iptr;            // declares an int pointer
+
+int *iptr;            // declares an int pointer <br>
 iptr = &i;            // stores the memory address of i into iptr
 ```
 - `&` is the unary operator that returns the memory address of the operand. While unary operator `*` does the reverse. It returns the value of the variable located at the address following it. For example if `iptr` contains the memory address 1234 then `*iptr` will return the value stored at that memory address.
+
 > The operand of `&` can an ordinary variable but the operand of `*` can only be a pointer variable.
 
 ### Dereferencing
@@ -34,6 +41,7 @@ The term refers to changing/accessing state of the pointer.<br>
 - When used with Pointer variable, it refers to variable being pointed to,this is called as Dereferencing of Pointers.
 - Dereferencing Operation is performed to access or manipulate data contained in memory location pointed to by a pointer
 - Any Operation performed on the de-referenced pointer directly affects the value of variable it pointes to.
+
 ```
 // Sample Code for Dereferencing of Pointer
 int n = 50 , x ;
