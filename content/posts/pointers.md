@@ -108,9 +108,9 @@ You may also hear the term buffering in relation to the standard IO streams libr
 
 ## Dynamic Allocation of memory
 In C, there are there are four ways in which one can allocate/reallocate and free the memory dynamically.
-1. malloc()
-2. calloc()
-3. realloc()
+1. malloc() <br>
+2. calloc() <br>
+3. realloc() <br>
 
 These functions are from __stdlib.h__. <br>
 A successful call to one of the memory allocation functions returns the beginning address of a memory block of the requested size. The return value has the type "pointer to void". The program can then use the allocated block in any way desired. When a block of memory is no longer needed, it should be released. All dynamically allocated memory blocks are automatically released when the program exits.
