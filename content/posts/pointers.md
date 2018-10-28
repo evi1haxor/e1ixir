@@ -56,6 +56,7 @@ The above code intended to assign the value of `a` and `b` through the use of po
 > Thus, making pointer point to incorrect datatype may lead to loss of information.
 
 - Pointer variable must not remain uninitialized as it may result into system crashing. Even if legal value of the pointer is not known, it must be initialized with `NULL` pointer value.
+
 ```int *ptr = NULL;      // initialized with NULL``` <br>
 `.` <br>
 `.` <br>
@@ -72,28 +73,29 @@ The above code intended to assign the value of `a` and `b` through the use of po
 > void pointer is called general purpose pointer.
 
 Consider the following code snippet-
-```
-float *ptr;
-int num;
 
-ptr = &num ;  // Illegal Use of Pointer
-```
+`float *ptr;`
+
+`int num;`
+
+`ptr = &num ;  // Illegal Use of Pointer`
+
 In the above example we have declared float pointer which is of no use in the program. We cannot use float pointer to store the integer pointer. So in order to increase the re-usability of the Pointer it is necessary to declared pointer variable as void Pointer.
+
 ### Dereferencing void Pointer:
 > You can’t dereference the void pointer directly, you will need to cast it to another type in order to access the contents of the buffer
 
-```
-void *ptr;    // ptr is declared as Void pointer
+`void *ptr;    // ptr is declared as Void pointer`
 
-char cnum;
-int inum;
-float fnum;
-```
+`char cnum;`
+`int inum;`
+`float fnum;`
+
 Here, suppose we have assigned integer address to a void pointer then-
-```
-ptr = &inum;  // ptr has address of integer data
-```
-Then to dereference this void pointer we should do- `*((int*)ptr)`. <br>
+
+`ptr = &inum;  // ptr has address of integer data`
+
+Then, to dereference this void pointer we should do- `*((int*)ptr)`. <br>
 Similarly, for `float` and `char` we should do- `*((float*)ptr)` and
 `*((char*)ptr)` respectively.
 
