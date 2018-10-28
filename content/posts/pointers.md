@@ -74,21 +74,18 @@ The above code intended to assign the value of `a` and `b` through the use of po
 
 Consider the following code snippet-
 
-`float *ptr;`
-
-`int num;`
-
-`ptr = &num ;  // Illegal Use of Pointer`
+`float *ptr;` <br>
+`int num;` <br>
+`ptr = &num ;  // Illegal Use of Pointer` <br>
 
 In the above example we have declared float pointer which is of no use in the program. We cannot use float pointer to store the integer pointer. So in order to increase the re-usability of the Pointer it is necessary to declared pointer variable as void Pointer.
 
 ### Dereferencing void Pointer:
 > You can’t dereference the void pointer directly, you will need to cast it to another type in order to access the contents of the buffer
 
-`void *ptr;    // ptr is declared as Void pointer`
-
-`char cnum;`
-`int inum;`
+`void *ptr;    // ptr is declared as Void pointer` <br>
+`char cnum;` <br>
+`int inum;` <br>
 `float fnum;`
 
 Here, suppose we have assigned integer address to a void pointer then-
