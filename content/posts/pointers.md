@@ -56,7 +56,7 @@ The above code intended to assign the value of `a` and `b` through the use of po
 > Thus, making pointer point to incorrect datatype may lead to loss of information.
 
 - Pointer variable must not remain uninitialized as it may result into system crashing. Even if legal value of the pointer is not known, it must be initialized with `NULL` pointer value.
-```int *ptr = NULL;      // initialized with NULL<br>.<br>.<br>.<br>if(ptr != NULL){      //check if ptr is pointing to legal address<br>.<br>.<br>.<br>.<br>}```
+```int *ptr = NULL;      // initialized with NUL L<br> . <br> . <br> . <br> if(ptr != NULL){      //check if ptr is pointing to legal address <br> . <br> . <br> . <br> . <br> }```
 
 ## void Pointer
 > void pointer is called general purpose pointer.
