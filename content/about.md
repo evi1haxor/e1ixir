@@ -11,7 +11,9 @@ I adore lots of music, you will catch me doing programming or reading books in m
 I love to go on  short distance solo travelling- may be on bicycle or on foot sometimes. In programming, I have thorough experience in C++, slight experience in HTML5 and CSS3, thou I'm self learning python, you can track my progress on [Pyathlon](https://github.com/evi1haxor/pyathlon). I also know [this](https://github.com/evi1haxor/brainfuckery). I'm going with my course CS111 at IITJ for C. Although, I believe if you know any programming language, then its not a difficult task to learn another one. But mastering the language might take time. More than that you expect. Sometimes, even years! <br>
 I've recently started working on Django framework, and got to know about many modern utilities like CI, travis, docker and more. I've started getting engaged with them, you'll definitely see output from me in some time! Apart from this, in near or far future, I've planned to learn— *I don't reveal my future plans..sorry*
 
-This is not my first blog. Though it is my first of its kind. This blog is powered by Hugo- a static site generator, and hosted on- netlify. Source code is available on GitHub. I'd made my previous blog through Jekyll. The main reason of abandoning the Jekyll blog is not only the curiosity to try something new (Hugo in this case), but is that I don't have a good machine to run Jekyll on. <br>
+This is not my first blog. Though it is my first of its kind. This blog is powered by Hugo- a static site generator, and hosted on- netlify. Source code is available on GitHub. I'd made my previous blog through Jekyll. The main reason of abandoning the Jekyll blog is not only the curiosity to try something new (Hugo in this case), but is that I don't have a good machine to run Jekyll on.
+
+
 > Just to let you know, I code on my mobile phone [$TERMUX$](http://termux.com)..yeah I know, it's really awful.
 
 Well, now I have one. I chose [15-cx0141tx](https://www.hpshopping.in/hp-gaming-pavilion-15-cx0141tx-4qm21pa.html). Not that I'm into gamming and all, just that it is a perfect machine according to my requirements `+` as my first laptop as a student. Mac is still a dream on its way coming true!
@@ -29,6 +31,8 @@ I'm on [Facebook](https://facebook.com/evi1haxor/). I won't force you to add me 
 You might find most of my content on Twitter or Facebook or Telegram channel, same. That's because I use [IFTTT](http://ifttt.com). Tho, some out of many won't be same (for example, Twitter API that ifttt use, doesn't post direct retweets without comments). And I'm lazy enough to change the applets for them.
 
 An appeal: **THIS PAGE IS SUSCEPTIBLE TO UPDATES.** Well, you don't expect me to be a man of *one* kind of interest throughout the life. Do you? As I get more on me, this page shall be updated. So keep an eye on the timeline page, if you want to, ofcourse. Second thing is— you might find the post a little shabbily maintained. I need to work on *Texonomies* for that. I'll do it as I get a machine to work on
+
+
 > (short on resources here!)
 
 **NOT ANYMORE!** Will start working on it soon!
