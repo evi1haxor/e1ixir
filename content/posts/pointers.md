@@ -107,7 +107,7 @@ This is the commonest use in C. A buffer will usually be declared as an array of
 You may also hear the term buffering in relation to the standard IO streams library. One of the functions of the Standard IO Library (__stdio.h__) is to handle Input/Output buffering. That means when you read/write to/from files, the __stdio__ library intervenes and buffers these operations. The buffering mode is usually either Full Buffering, Line Buffering, or No Buffering (all defined via macros in __stdio.h__). You can easily tweak the buffering mode of any open file stream by using the __setbuf()__ function call.
 
 ## Dynamic Allocation of memory
-In C, there are there are four ways in which one can allocate/reallocate and free the memory dynamically.
+In C, there are there are four ways in which one can allocate/reallocate and free the memory dynamically. <br>
 1. malloc() <br>
 2. calloc() <br>
 3. realloc() <br>
