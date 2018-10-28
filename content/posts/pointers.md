@@ -15,18 +15,15 @@ type * var_name
 <br>
 where `type` and `var_name` is any valid datatype and variable name(name of the pointer) respectively. <br> Some valid declarations are-
 
-```
-int *iptr;          //creates an integer pointer
-char *cptr;         //creates a character pointer
-float *fptr;        //creates a float pointer
-```
+`int *iptr;          //creates an integer pointer` <br>
+`char *cptr;         //creates a character pointer` <br>
+`float *fptr;        //creates a float pointer` <br>
 
 - Two operators, `*` and `&` are used with Pointers.
 
 ```int i = 25;           // declares an int variable``` <br>
 ```int *iptr;            // declares an int pointer``` <br>
-```iptr = &i;            // stores the memory address of i into iptr
-```
+```iptr = &i;            // stores the memory address of i into iptr```
 
 - `&` is the unary operator that returns the memory address of the operand. While unary operator `*` does the reverse. It returns the value of the variable located at the address following it. For example if `iptr` contains the memory address 1234 then `*iptr` will return the value stored at that memory address.
 
