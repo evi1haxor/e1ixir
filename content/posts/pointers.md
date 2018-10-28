@@ -23,11 +23,11 @@ float *fptr;        //creates a float pointer
 
 - Two operators, `*` and `&` are used with Pointers.
 
+```int i = 25;           // declares an int variable``` <br>
+```int *iptr;            // declares an int pointer``` <br>
+```iptr = &i;            // stores the memory address of i into iptr
 ```
-int i = 25;           // declares an int variable <br>
-int *iptr;            // declares an int pointer <br>
-iptr = &i;            // stores the memory address of i into iptr
-```
+
 - `&` is the unary operator that returns the memory address of the operand. While unary operator `*` does the reverse. It returns the value of the variable located at the address following it. For example if `iptr` contains the memory address 1234 then `*iptr` will return the value stored at that memory address.
 
 > The operand of `&` can an ordinary variable but the operand of `*` can only be a pointer variable.
