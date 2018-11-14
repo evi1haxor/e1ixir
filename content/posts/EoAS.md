@@ -1,7 +1,7 @@
 ---
 title: "Evolution of the Atomic Structure"
 date: 2018-10-12T00:46:53+05:30
-draft: false
+draft: true
 ---
 
 The idea of the elements and atoms is not new. The thought encompasses it's foundation, back from over 2.5 millennia! <Img src="https://raw.githubusercontent.com/evi1haxor/e1ixir/master/static/Screenshot_2018-10-12-23-58-57-142_com.android.chrome.png" align = "left" height= 260px /> _Democritus:_ One of the greatest philosopher mankind has ever had. His theory argues the indivisibility of atom. In his theory, he claimed that there must exist different kinds of atom, with different masses and sizes. These different kinds of atom, then constitute observable objects. However, he added, the characteristics like taste, colour and feel of touch emanates from the different ways the atoms might arrange in. Fundamentally, his philosophy scratches the surface of modern idea of chemical bonding and characteristics of the atom, pretty well.
