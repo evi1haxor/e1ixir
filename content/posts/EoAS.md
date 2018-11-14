@@ -1,7 +1,7 @@
 ---
 title: "Evolution of the Atomic Structure"
 date: 2018-10-12T00:46:53+05:30
-draft: true
+draft: false
 ---
 
 The idea of the elements and atoms is not new. The thought encompasses it's foundation, back from over 2.5 millennia! <Img src="https://raw.githubusercontent.com/evi1haxor/e1ixir/master/static/Screenshot_2018-10-12-23-58-57-142_com.android.chrome.png" align = "left" height= 260px /> _Democritus:_ One of the greatest philosopher mankind has ever had. His theory argues the indivisibility of atom. In his theory, he claimed that there must exist different kinds of atom, with different masses and sizes. These different kinds of atom, then constitute observable objects. However, he added, the characteristics like taste, colour and feel of touch emanates from the different ways the atoms might arrange in. Fundamentally, his philosophy scratches the surface of modern idea of chemical bonding and characteristics of the atom, pretty well.
@@ -21,8 +21,8 @@ Next when the topic caught the heat was during 1800s with Dalton's intelligent f
 
 You'd probably been taught the dossiers on this in school. So I won't take trouble to explain them unnecessarily.
 
-_Science is the study of conclusions._ All the theories must be driven by logical arguments derived from well designed experiments. Superfluously mentioning,that these theories are susceptible to refinement (if needed) with subsequent experiments. And that's the best thing about the Science culture. All of the little idea about _the atom_ that we have today is solely based on experiments and observations. 
- For such a small of an atom, many experiments were performed. Thence, proposing numerous _models_ of the atomic structure. But wait....why the _models_..? Well, you see, (oh! Actually you can't see...that's the real problem) our eyes can detect minimum size of 400nm (lower limit of λ of the visible region of the spectrum). So, human can't see the atoms unsupported, which is as small as of the order 3 × 10<sup>-7</sup> m. That's why there are _models_ of the structure of an atom, 'cause that _model_ tag give it the uncertainty in correctness. 
+_Science is the study of conclusions._ All the theories must be driven by logical arguments derived from well designed experiments. Superfluously mentioning,that these theories are susceptible to refinement (if needed) with subsequent experiments. And that's the best thing about the Science culture. All of the little idea about _the atom_ that we have today is solely based on experiments and observations.
+ For such a small of an atom, many experiments were performed. Thence, proposing numerous _models_ of the atomic structure. But wait....why the _models_..? Well, you see, (oh! Actually you can't see...that's the real problem) our eyes can detect minimum size of 400nm (lower limit of λ of the visible region of the spectrum). So, human can't see the atoms unsupported, which is as small as of the order 3 × 10<sup>-7</sup> m. That's why there are _models_ of the structure of an atom, 'cause that _model_ tag give it the uncertainty in correctness.
 
  So, typed some important experiments herein, which had put the foundation of our modern perception of atomic theory.
 
@@ -39,13 +39,13 @@ That was Faraday been quoted, back from 1833 when he proposed a quite pensive co
 1. A given amount of electricity will always deposit the same weight of a given material at an electrode.
 2. The weight of various materials deposited evolved, or dissolved at an electrode by a fixed amount of electricity are proportional to the equivalent weight of these substances.
 
-Considering the first law, we can say, if a fixed amount of electricity influences (oxidise or reduce) a fixed number of atoms, then electricity itself must have its constituting particles. Thereby, in 1874, the word _electron_ was proposed by *G.J. Stoney*, for those **hypothetical** fundamental electrical particles. Hypothetical because, still there wasn't any proofs of experiments for their existence. It took 23 whopping years, that is 1897, when a strong evidence claiming the existence of electrons came up. 
+Considering the first law, we can say, if a fixed amount of electricity influences (oxidise or reduce) a fixed number of atoms, then electricity itself must have its constituting particles. Thereby, in 1874, the word _electron_ was proposed by *G.J. Stoney*, for those **hypothetical** fundamental electrical particles. Hypothetical because, still there wasn't any proofs of experiments for their existence. It took 23 whopping years, that is 1897, when a strong evidence claiming the existence of electrons came up.
 
 #### Cathode ray experiment
 
 The experiment was intended to study the conducting property of gases at low pressure. Gases are electrically insulators in ordinary conditions, they, however, _break down_ and start conducting, if subjected to high voltage metal electrodes, with light emission as a signature of the episode. During other subsequent experiments, experimentalists tried to tinker around. So they induced a small fan like structure inside the tube just to see, as usual. When they applied the voltage across the terminals, they found the fan like structure rotation! This clearly showed that what they were calling the _Ray_ (like Cathode RAY) are actually particles, heavy enough to transcend their momentum to the wings of the fan. The thing that misguided them to believe that those were rays was that when they put an opaque object in the path of those rays, it made shadow impression  on the opposite wall of cathode. It's not like photons don't pass on their momentum, it's just that it doesn't suffices the fan to move. Then, however, noone took the pain to modify the name.
 
-You can further read about discovery of electron, proton and neutron [here](https://en.m.wikipedia.org/wiki/Subatomic_particle). It is the least of what I've got for you here (wait for QED!)
+You can further read about discovery of electron, proton and neutron [here](https://en.m.wikipedia.org/wiki/Subatomic_particle). It is the least of what I've got for you here (wait for QED!). Although, I would like to take the courtesy to write a separate post dedicated to Nucleus.
 
 
 #### Millican's Oil Drop Experiment
@@ -56,14 +56,14 @@ _Millican_ was an American physicist who was awarded Noble Prize in Physics in 1
 ![Einstein's photoelectric equation for kinetic energy of ejected electron](http://mathurl.com/yb6l94f9.png)<br>
 
  Another incomprehensible observation that they got was that there was virtually no time lag between irradiation and electron emission.<br>
-This perplexing behaviour of light-matter interaction led Albert Einstein to formulate photon hypothesis in 1905. He, in his theory tried to pursued us to _believe_ in a very *uncommonsensy thought, that light is made of particles. Well, what to say...it's his way of dealing with stuff. He named them _Photons_. He stated that each photons carries a specific amount of energy, given by ![E=h\nu](http://mathurl.com/celhkrc.png) <br>
+This perplexing behaviour of light-matter interaction led Albert Einstein to formulate photon hypothesis in 1905. He, in his theory tried to pursued us to _believe_ in a very `uncommonsensy` thought, that light is made of particles. Well, what to say...it's his way of dealing with stuff. He named them _Photons_. He stated that each photons carries a specific amount of energy, given by ![E=h\nu](http://mathurl.com/celhkrc.png) <br>
 > That equation! That damn equation! It has got a story of its own. Will write about it too someday.<br>
 
 Millican carefully examined the results and verified Einstein's equation to high precision which apparently got him a Nobel prize.
 
-Anyways, going with the Oil drop experiment (1909) by Millican and Fletcher. An intelligent setup that was designed to measure the elementary charge on the electron utilising tools only from classical physics. <IMG src="https://raw.githubusercontent.com/evi1haxor/e1ixir/master/static/Screenshot_2018-09-28-00-36-00-310_com.android.chrome.png" align="left" />
+Anyways, going with the Oil drop experiment (1909) by Millican and Fletcher- An intelligent setup that was designed to measure the elementary charge on the electron utilising the tools from classical physics only. <IMG src="https://raw.githubusercontent.com/evi1haxor/e1ixir/master/static/Screenshot_2018-09-28-00-36-00-310_com.android.chrome.png" align="left" height=300px/>
 
 The arrangement consist of a spray bottle (atomiser) which sprays the oil contained in it, in fine and consistently small sized droplets.
-<IMG src="https://raw.githubusercontent.com/evi1haxor/e1ixir/c1b6c952370b12b646e151bb516a4fac828ca716/static/IMG_20180928_012042.jpg" align="right" height=200px /> These droplets then enters a room of two compartments stacked one over the other. The lower compartment has uniform electric field which can be varied through external system. Lower compartment is irradiated with X-Rays in order to ionise the oil drops so that they can be made steadily hung infront of a telescope which is usually intact at the midway of the second compartment. So now as you see through the telescope, you'd see a hovering spherical oil drop. Note that we already have electric field, or voltage applied for that sake we've applied to make it hover at a latitudinal level. We also know the height at which we'd made it to hover.
-> V: Potential difference between the plates.<br>
-  H: Height at which oil drop is hovering in the chamber
+<IMG src="https://raw.githubusercontent.com/evi1haxor/e1ixir/c1b6c952370b12b646e151bb516a4fac828ca716/static/IMG_20180928_012042.jpg" align="right" height=200px /> These droplets then enters a room of two compartments stacked one over the other. The lower compartment has uniform electric field which can be varied through external system. Lower compartment is irradiated with X-Rays in order to ionise the oil drop, so now they move upward under tghe influence if electric field.
+<br>
+So now if I do some math with <br>
