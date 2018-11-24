@@ -4,9 +4,11 @@ title: "Adages"
 draft: false
 ---
 
+> I highly recommend reading to my Adages first if you're thinking of starting a conversation with me. It will help us to have a clear and productive talk.
+
 *Be a part of solution, and not the problem...*
 
----------------------------
+---
 
 *"When you're in love, you want to tell the world...."*
 
@@ -18,19 +20,17 @@ draft: false
 
 ---
 
+*'without' without 'thou' is wit, this is lit!*
+
+~ **evi1haxor**
+
+---
 
  कुछ लिख के सो, कुछ पढ़ के सो,
 
  जिस जगह से जगा सवेरे,
 
  उस जगह से बढ़ के सो।
-
-
----
-
-*'without' without 'thou' is wit, this is lit!*
-
-~ **evi1haxor**
 
 ---
 
