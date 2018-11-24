@@ -1,5 +1,5 @@
 ---
-title: "Quotes and phrases"
+title: "Adages"
 date: 2018-08-01T00:46:53+05:30
 draft: false
 ---

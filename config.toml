@@ -43,7 +43,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     weight = 3
     url = "https://t.me/E1ixir/"
 [[params.social]]
-    name = "Quotes"
+    name = "Adages"
     weight = 4
     url = "https://e1ixir.netlify.com/posts/quote/"
 
@@ -61,7 +61,3 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "Timeline"
     weight = 3
     url  = "/timeline/"
-
-
-
-
