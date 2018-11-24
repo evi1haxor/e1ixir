@@ -1,9 +1,10 @@
 ---
-title: "Evolution of the Atomic Structure"
+title: "The Lost Lecture"
 date: 2018-10-12T00:46:53+05:30
 draft: true
 ---
 
+# Evolution of the Atomic Structur
 The idea of the elements and atoms is not new. The thought encompasses it's foundation, back from over 2.5 millennia! <Img src="https://raw.githubusercontent.com/evi1haxor/e1ixir/master/static/Screenshot_2018-10-12-23-58-57-142_com.android.chrome.png" align = "left" height= 260px /> _Democritus:_ One of the greatest philosopher mankind has ever had. His theory argues the indivisibility of atom. In his theory, he claimed that there must exist different kinds of atom, with different masses and sizes. These different kinds of atom, then constitute observable objects. However, he added, the characteristics like taste, colour and feel of touch emanates from the different ways the atoms might arrange in. Fundamentally, his philosophy scratches the surface of modern idea of chemical bonding and characteristics of the atom, pretty well.
 For others the thought was so ahead of time that they laughed at him. Though, early Greek philosophers used to propose their ideas just by thought processing and logic, and not by experiments. And that's why it's said for Greek philosophers: __"All thoughts and no action!"__ So most of the time, they had ideas, they had plans, but they just don't want to toil for justifying it through real life experiences.
 
@@ -52,11 +53,10 @@ You can further read about discovery of electron, proton and neutron [here](http
 
 _Millican_ was an American physicist who was awarded Noble Prize in Physics in 1923 for his work in Particle Physics(mainly elementary electronic charge) and photoelectric effect.<br>
 <Img src = "https://raw.githubusercontent.com/evi1haxor/e1ixir/master/static/IMG_20180928_012116.jpg" align= "right" height=200px/>
-**A Little more about Robert A. Millican:** Millican had had a share of contribution in photoelectric effect. This unusual phenomenon- photoelectric effect, was first discovered by a German physicist Heinrich Rudolf Hertz in 1887. The hottest reason why it caught moot among the physics community of that time was that this phenomenon cannot be explained by classical physics, which takes light as electromagnetic wave. As classical physics suggest that kinetic energy of ejected electron must increase on increasing the intensity, but here, results depicts a whole set of data results, that it doesn't even depend on intensity. It varies linearly with frequency instead. Like-
-![Einstein's photoelectric equation for kinetic energy of ejected electron](http://mathurl.com/yb6l94f9.png)<br>
+**A Little more about Robert A. Millican:** Millican had had a share of contribution in photoelectric effect. This unusual phenomenon- photoelectric effect, was first discovered by a German physicist Heinrich Rudolf Hertz in 1887. The hottest reason why it caught moot among the physics community of that time was that this phenomenon cannot be explained by classical physics, which takes light as electromagnetic wave. As classical physics suggest that kinetic energy of ejected electron must increase on increasing the intensity, but here, results depicts a whole set of data results, that it doesn't even depend on intensity. It varies linearly with frequency instead. Like- <br> ![Einstein's photoelectric equation for kinetic energy of ejected electron](http://mathurl.com/yb6l94f9.png)<br>
 
  Another incomprehensible observation that they got was that there was virtually no time lag between irradiation and electron emission.<br>
-This perplexing behaviour of light-matter interaction led Albert Einstein to formulate photon hypothesis in 1905. He, in his theory tried to pursued us to _believe_ in a very `uncommonsensy` thought, that light is made of particles. Well, what to say...it's his way of dealing with stuff. He named them _Photons_. He stated that each photons carries a specific amount of energy, given by ![E=h\nu](http://mathurl.com/celhkrc.png) <br>
+This perplexing behaviour of light-matter interaction led Albert Einstein to formulate photon hypothesis in 1905. He, in his theory tried to pursued us to _believe_ in a very `uncommonsensy` thought, that light is made of particles. Well, what to say...it's his way of dealing with stuff. He named them _Photons_. He stated that each photons carries a specific amount of energy, given by <br> ![E=h\nu](http://mathurl.com/celhkrc.png) <br>
 > That equation! That damn equation! It has got a story of its own. Will write about it too someday.<br>
 
 Millican carefully examined the results and verified Einstein's equation to high precision which apparently got him a Nobel prize.
@@ -64,6 +64,25 @@ Millican carefully examined the results and verified Einstein's equation to high
 Anyways, going with the Oil drop experiment (1909) by Millican and Fletcher- An intelligent setup that was designed to measure the elementary charge on the electron utilising the tools from classical physics only. <IMG src="https://raw.githubusercontent.com/evi1haxor/e1ixir/master/static/Screenshot_2018-09-28-00-36-00-310_com.android.chrome.png" align="left" height=300px/>
 
 The arrangement consist of a spray bottle (atomiser) which sprays the oil contained in it, in fine and consistently small sized droplets.
-<IMG src="https://raw.githubusercontent.com/evi1haxor/e1ixir/c1b6c952370b12b646e151bb516a4fac828ca716/static/IMG_20180928_012042.jpg" align="right" height=200px /> These droplets then enters a room of two compartments stacked one over the other. The lower compartment has uniform electric field which can be varied through external system. Lower compartment is irradiated with X-Rays in order to ionise the oil drop, so now they move upward under tghe influence if electric field.
+<IMG src="https://raw.githubusercontent.com/evi1haxor/e1ixir/c1b6c952370b12b646e151bb516a4fac828ca716/static/IMG_20180928_012042.jpg" align="right" height=200px /> These droplets then enters a room of two compartments stacked one over the other. The lower compartment has uniform electric field which can be varied through external system. Lower compartment is irradiated with X-Rays in order to ionise the oil drop, so now they move upward under the influence if electric field.
 <br>
 So now if I do some math with <br>
+* Terminal velocity of oil drop in upper compartment  ![v1](http://mathurl.com/ybzsz5rg.png)
+* Mass of the drop ![m](http://mathurl.com/yd79waz.png)
+* Accelaratiomn due to garvity ![g](http://mathurl.com/6c8lfp3.png)
+* Coefficient of viscosity ![eta](http://mathurl.com/77bhz7l.png)
+* Radius ![r](http://mathurl.com/375ggas.png)
+<br>
+According to Stoke's theorem
+![differential in v1](http://mathurl.com/yb2ghkyo.png) <br>
+![solving differential](http://mathurl.com/y7eolurw.pnhg) <br>
+![integrating](http://mathurl.com/yanjoccn.png) <br>
+If I assume that its initial vertical velocity was 0, then- <br>
+![Solved](http://mathurl.com/ybmm4sx4.png) <br> <br>
+Here it can clearly be analyzed that as time tends to infinity, velocity tends to a limiting value of <br>
+![terminal velocity](http://mathurl.com/yclq5rdj.png) <br>
+Now in a condition where electric field is acting over the suspended oil drop with charge `q`, radius `r` and mass `m`, the terminal velocity expression will ultimately get deduced to <br>
+![terminal velocity2](http://mathurl.com/yae68zmd.png) <br>
+Since _E_, `m`, `r` and <i>v<sub>t</sub></i> are known or measurable, hence `q` can be  calculated. And it turns out that `q` is always an integral multiple of _1.6 x 10<sup>-19</sup>_. This shows that charge is quantized with a unit value of _1.6 x 10<sup>-19</sup>_.
+
+## Quantum Leap
