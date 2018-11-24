@@ -24,6 +24,6 @@ _28th October, 2018_ **Updated [Brainiac](http://e1ixir.netlify.com/about/)**
 
 _28th October, 2018_ **Added in [Notes: Pointers in C](http://e1ixir.netlify.com/posts/pointers/)**
 
-_25th November, 2018_ **Changed** `Quotes` to `Adages`
+_25th November, 2018_ **Renamed** `Quotes` to `Adages`
 
 _25th November, 2018_ **Updated [Adages](https://e1ixir.netlify.com/quote/)**
