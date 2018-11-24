@@ -34,7 +34,7 @@ draft: false
 
 ---
 
-*If I could, I'd like to make a space agency with international collaboration with capable countries. Afterall if we ever meet Cromulons(ref. RnM), asking- "Show me what you got.." then we must take pride of our achievements as a species and not as NASA or ISRO.*
+*If I could, I'd like to make a space agency with international collaboration from capable countries. Afterall if we ever meet Cromulons(ref. RnM), asking- "Show me what you got.." then we must take pride of our achievements as a species and not as NASA or ISRO.*
 
 ~ **evi1haxor**
 
