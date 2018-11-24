@@ -45,7 +45,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [[params.social]]
     name = "Adages"
     weight = 4
-    url = "https://e1ixir.netlify.com/posts/quote/"
+    url = "/quote/"
 
 
 # Menu links
