@@ -4,6 +4,10 @@ date: 2018-11-25T00:46:53+05:30
 draft: false
 ---
 
+> I highly recommend to read my Adages first if you're thinking of starting a conversation with me. It will help us to have a clear and productive talk.
+
+
+
 *Be a part of solution, and not the problem...*
 
 ---------------------------
@@ -25,7 +29,6 @@ draft: false
 
  उस जगह से बढ़ के सो।
 
-
 ---
 
 *'without' without 'thou' is wit, this is lit!*
@@ -42,24 +45,20 @@ draft: false
 
 *If someone cheats you first time, then it's his fault but if the same person cheats you second time, then it's yours.*
 
-
 ---
 
 
 *Say `NO` when you ought to.*
-
 
 ---
 
 
 *Don't criticize but welcome your own criticism.*
 
-
 ---
 
 
 *Neither exhibition, nor inhibition, but presentation.*
-
 
 ---
 
@@ -74,18 +73,15 @@ draft: false
 
 *Watch your character, they become your destiny*
 
-
 ---------------------------
 
 
 *Control your mind by practice and detachment*
 
-
 ---
 
 
 *Don't force your thoughts down their throats*
-
 
 ---
 
@@ -94,12 +90,10 @@ draft: false
 
 ~ **Gary Vaynerchuk**
 
-
 ---
 
 
 *Research is to see what everybody else has seen, and to think what nobody else has thought.*
-
 
 ---
 
@@ -109,14 +103,12 @@ draft: false
 
 ~ **Cullen Hightower**
 
-
 ---
 
 
 *"I have noticed even people who claim everything is predestined, and that we can do nothing to change it, look before they cross the road."*
 
 ~ **Stephen Hawking**
-
 
 ---
 
@@ -308,7 +300,7 @@ Me, on July 24 2018: *Although I'm 18 already, but I still feel that people don'
 
  ~ **Carl Sagan**
 
- ---
+---
 
 *INSERT INTO list of things that sucks VALUES ( लड़की Quota in JEE);*
 
