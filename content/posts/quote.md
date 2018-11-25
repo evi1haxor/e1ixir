@@ -4,7 +4,11 @@ title: "Adages"
 draft: false
 ---
 
+
+
 > I highly recommend reading to my Adages first if you're thinking of starting a conversation with me. It will help us to have a clear and productive talk.
+
+
 
 *Be a part of solution, and not the problem...*
 
