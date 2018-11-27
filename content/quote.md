@@ -4,7 +4,17 @@ date: 2018-11-25T00:46:53+05:30
 draft: false
 ---
 
-> I highly recommend to read my Adages first if you're thinking of starting a conversation with me. It will help us to have a clear and productive talk.
+> I highly recommend reading my Adages before you start conversation with me from your side. It will help us to have a clear and productive talk. If, by any chance, you also maintain a similar content, I'd like to read it.
+
+
+
+*What we see depends mainly on what we look for.*
+
+~ **John Lubbock**
+
+
+
+---
 
 
 
