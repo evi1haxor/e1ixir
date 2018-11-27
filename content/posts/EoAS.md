@@ -9,10 +9,11 @@ The idea of the elements and atoms is not new. The thought encompasses it's foun
 For others the thought was so ahead of time that they laughed at him. Though, early Greek philosophers used to propose their ideas just by thought processing and logic, and not by experiments. And that's why it's said for Greek philosophers: __"All thoughts and no action!"__ So most of the time, they had ideas, they had plans, but they just don't want to toil for justifying it through real life experiences.
 
 Next when the topic caught the heat was during 1800s with Dalton's intelligent findings. A few ethos from Dalton's early Modern atomic theory are-
+
 ‌
 * All matter is composed of extremely small particles called atoms.
 
-* Atoms of a given element are identical in size, mass, and other properties. Atoms of different elements differ in size, mass, and other properties.
+* Atoms of a given element are identical in size, mass, and other properties while atoms of different elements differ in size, mass, and other properties.
 
 * Atoms cannot be subdivided, created, or destroyed.
 
@@ -20,10 +21,10 @@ Next when the topic caught the heat was during 1800s with Dalton's intelligent f
 
 * In chemical reactions, atoms are combined, separated, or rearranged.
 
-You'd probably been taught the dossiers on this in school. So I won't take trouble to explain them unnecessarily.
+You'd probably been taught the dossiers on this in school. So I won't take trouble to explain them again here unnecessarily.
 
 _Science is the study of conclusions._ All the theories must be driven by logical arguments derived from well designed experiments. Superfluously mentioning,that these theories are susceptible to refinement (if needed) with subsequent experiments. And that's the best thing about the Science culture. All of the little idea about _the atom_ that we have today is solely based on experiments and observations.
- For such a small of an atom, many experiments were performed. Thence, proposing numerous _models_ of the atomic structure. But wait....why the _models_..? Well, you see, (oh! Actually you can't see...that's the real problem) our eyes can detect minimum size of 400nm (lower limit of λ of the visible region of the spectrum). So, human can't see the atoms unsupported, which is as small as of the order 3 × 10<sup>-7</sup> m. That's why there are _models_ of the structure of an atom, 'cause that _model_ tag give it the uncertainty in correctness.
+ For such a small of an atom, many experiments were performed. Thence, proposing numerous _models_ of the atomic structure. But wait....why the _models_..? Well, you see, (oh! Actually you can't see...that's the real problem) our eyes can detect minimum size of 400nm (lower limit of λ of the visible region of the spectrum). So, human can't see the atoms unsupported, which is as small as of the order 3 × 10<sup>-7</sup> m. That's why there are _models_ of the structure of an atom, 'cause that _model_ tag give it an uncertainty in correctness.
 
  So, typed some important experiments herein, which had put the foundation of our modern perception of atomic theory.
 
@@ -38,13 +39,13 @@ That was Faraday been quoted, back from 1833 when he proposed a quite pensive co
 #### Faraday's Law of electrodecomposition:
 
 1. A given amount of electricity will always deposit the same weight of a given material at an electrode.
-2. The weight of various materials deposited evolved, or dissolved at an electrode by a fixed amount of electricity are proportional to the equivalent weight of these substances.
+2. The weight of various materials deposited, evolved, or dissolved at an electrode by a fixed amount of electricity are proportional to the equivalent weight of these substances.
 
-Considering the first law, we can say, if a fixed amount of electricity influences (oxidise or reduce) a fixed number of atoms, then electricity itself must have its constituting particles. Thereby, in 1874, the word _electron_ was proposed by *G.J. Stoney*, for those **hypothetical** fundamental electrical particles. Hypothetical because, still there wasn't any proofs of experiments for their existence. It took 23 whopping years, that is 1897, when a strong evidence claiming the existence of electrons came up.
+Considering the first law, we can say, if a fixed amount of electricity influences (oxidise or reduce) a fixed number of atoms, then electricity itself must have its constituting particles. Thereby, in 1874, the word _electron_ was proposed by *G.J. Stoney*, for those **hypothetical** fundamental electrical particles. Hypothetical because, still there wasn't any proofs of experiments for their existence. It took whopping 23 years, that is 1897, when a strong evidence claiming the existence of electrons came up.
 
 #### Cathode ray experiment
 
-The experiment was intended to study the conducting property of gases at low pressure. Gases are electrically insulators in ordinary conditions, they, however, _break down_ and start conducting, if subjected to high voltage metal electrodes, with light emission as a signature of the episode. During other subsequent experiments, experimentalists tried to tinker around. So they induced a small fan like structure inside the tube just to see, as usual. When they applied the voltage across the terminals, they found the fan like structure rotation! This clearly showed that what they were calling the _Ray_ (like Cathode RAY) are actually particles, heavy enough to transcend their momentum to the wings of the fan. The thing that misguided them to believe that those were rays was that when they put an opaque object in the path of those rays, it made shadow impression  on the opposite wall of cathode. It's not like photons don't pass on their momentum, it's just that it doesn't suffices the fan to move. Then, however, noone took the pain to modify the name.
+The experiment was intended to study the conducting property of gases at low pressure. Gases are electrically insulators in ordinary conditions, they, however, _break down_ and start conducting, if subjected to high voltage metal electrodes, with light emission as a signature of the episode. During other subsequent experiments, experimentalists tried to tinker around. So they induced a small fan like structure inside the tube just to see, as usual. When they applied the voltage across the terminals, they found the fan like structure rotating! This clearly showed that what they were calling the _Ray_ (like Cathode RAY) are actually particles, heavy enough to transcend their momentum to the wings of the fan. The thing that misguided them to believe that those were rays was that when they put an opaque object in the path of those rays, it made shadow impression  on the opposite wall of cathode. It's not like photons don't pass on their momentum, it's just that it doesn't suffices the fan to move. Then, however, noone took the pain to modify the name.
 
 You can further read about discovery of electron, proton and neutron [here](https://en.m.wikipedia.org/wiki/Subatomic_particle). It is the least of what I've got for you here (wait for QED!). Although, I would like to take the courtesy to write a separate post dedicated to Nucleus.
 
@@ -57,25 +58,29 @@ _Millican_ was an American physicist who was awarded Noble Prize in Physics in 1
 
  Another incomprehensible observation that they got was that there was virtually no time lag between irradiation and electron emission.<br>
 This perplexing behaviour of light-matter interaction led Albert Einstein to formulate photon hypothesis in 1905. He, in his theory tried to pursued us to _believe_ in a very `uncommonsensy` thought, that light is made of particles. Well, what to say...it's his way of dealing with stuff. He named them _Photons_. He stated that each photons carries a specific amount of energy, given by <br> ![E=h\nu](http://mathurl.com/celhkrc.png) <br>
+
+
 > That equation! That damn equation! It has got a story of its own. Will write about it too someday.<br>
 
-Millican carefully examined the results and verified Einstein's equation to high precision which apparently got him a Nobel prize.
+
+Millican carefully examined the results and verified Einstein's equation to high precision which apparently got him a Nobel prize!
 
 Anyways, going with the Oil drop experiment (1909) by Millican and Fletcher- An intelligent setup that was designed to measure the elementary charge on the electron utilising the tools from classical physics only. <IMG src="https://raw.githubusercontent.com/evi1haxor/e1ixir/master/static/Screenshot_2018-09-28-00-36-00-310_com.android.chrome.png" align="left" height=300px/>
 
 The arrangement consist of a spray bottle (atomiser) which sprays the oil contained in it, in fine and consistently small sized droplets.
-<IMG src="https://raw.githubusercontent.com/evi1haxor/e1ixir/c1b6c952370b12b646e151bb516a4fac828ca716/static/IMG_20180928_012042.jpg" align="right" height=200px /> These droplets then enters a room of two compartments stacked one over the other. The lower compartment has uniform electric field which can be varied through external system. Lower compartment is irradiated with X-Rays in order to ionise the oil drop, so now they move upward under the influence if electric field.
+<IMG src="https://raw.githubusercontent.com/evi1haxor/e1ixir/c1b6c952370b12b646e151bb516a4fac828ca716/static/IMG_20180928_012042.jpg" align="right" height=200px /> These droplets then enters a room of two compartments stacked one over the other. The lower compartment has uniform electric field which can be varied through external systems. Lower compartment is irradiated with X-Rays in order to ionise the oil drop, so now they move upward under the influence of electric field.
 <br>
 So now if I do some math with <br>
-* Terminal velocity of oil drop in upper compartment  ![v1](http://mathurl.com/ybzsz5rg.png)
-* Mass of the drop ![m](http://mathurl.com/yd79waz.png)
-* Accelaratiomn due to garvity ![g](http://mathurl.com/6c8lfp3.png)
-* Coefficient of viscosity ![eta](http://mathurl.com/77bhz7l.png)
-* Radius ![r](http://mathurl.com/375ggas.png)
+
+* Terminal velocity of oil drop in upper compartment  ![v1](http://mathurl.com/ybzsz5rg.png) <br>
+* Mass of the drop ![m](http://mathurl.com/yd79waz.png) <br>
+* Accelaratiomn due to garvity ![g](http://mathurl.com/6c8lfp3.png) <br>
+* Coefficient of viscosity ![eta](http://mathurl.com/77bhz7l.png) <br>
+* Radius ![r](http://mathurl.com/375ggas.png) <br>
 <br>
 According to Stoke's theorem
 ![differential in v1](http://mathurl.com/yb2ghkyo.png) <br>
-![solving differential](http://mathurl.com/y7eolurw.pnhg) <br>
+![solving differential](http://mathurl.com/y7eolurw.png) <br>
 ![integrating](http://mathurl.com/yanjoccn.png) <br>
 If I assume that its initial vertical velocity was 0, then- <br>
 ![Solved](http://mathurl.com/ybmm4sx4.png) <br> <br>
@@ -83,7 +88,7 @@ Here it can clearly be analyzed that as time tends to infinity, velocity tends t
 ![terminal velocity](http://mathurl.com/yclq5rdj.png) <br>
 Now in a condition where electric field is acting over the suspended oil drop with charge `q`, radius `r` and mass `m`, the terminal velocity expression will ultimately get deduced to <br>
 ![terminal velocity2](http://mathurl.com/yae68zmd.png) <br>
-Since _E_, `m`, `r` and <i>v<sub>t</sub></i> are known or measurable, hence `q` can be  calculated. And it turns out that `q` is always an integral multiple of _1.6 x 10<sup>-19</sup>_. This shows that charge is quantized with a unit value of _1.6 x 10<sup>-19</sup>_.
+Since _E_, `m`, `r` and <i>v<sub>t</sub></i> are known or measurable, hence `q` can be  calculated. And it turns out that `q` is always an integral multiple of _1.6 x 10<sup>-19</sup>_. This shows that charge is quantized with a unit value of _1.6 x 10<sup>-19</sup>_ C.
 
 ## Quantum Leap
 
