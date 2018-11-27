@@ -1,6 +1,6 @@
 ---
 title: "The Lost Lecture"
-date: 2018-10-12T00:46:53+05:30
+date: 2018-11-27T00:46:53+05:30
 draft: false
 ---
 
