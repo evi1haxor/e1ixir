@@ -27,3 +27,6 @@ _28th October, 2018_ **Added in [Notes: Pointers in C](http://e1ixir.netlify.com
 _25th November, 2018_ **Renamed** `Quotes` to `Adages`
 
 _25th November, 2018_ **Updated [Adages](https://e1ixir.netlify.com/quote/)**
+
+_27th November, 2018_ **Posted [The Lost Lecture](http://e1ixir.netlify.com/posts/eoas/)**
+
