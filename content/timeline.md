@@ -20,7 +20,7 @@ _2nd September, 2018_ **Posted [Scientific Methods amd Experiment Designing](htt
 
 _26th August, 2018_ **Posted [$Termux$](http://e1ixir.netlify.com/posts/termux/)**
 
-_1st August, 2018_ **Posted [Quotes and Phrases](http://e1ixir.netlify.com/posts/quote/)**
+_1st August, 2018_ **Posted [Quotes and Phrases](http://e1ixir.netlify.com/quote/)**
 
 _22nd July, 2018_ **Posted [Article on Aadhar](http://e1ixir.netlify.com/posts/aadhar/)**
 
