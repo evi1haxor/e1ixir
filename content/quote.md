@@ -7,6 +7,45 @@ draft: false
 > I highly recommend reading my Adages before you start conversation with me from your side. It will help us to have a clear and productive talk. If, by any chance, you also maintain a similar content, I'd like to read it.
 
 
+*From little acorns mighty oaks do grow.*
+
+<sub>2nd December, 2018</sub>
+
+~ **American Proverb**
+
+---
+
+*I start early and I stay late, day after day, year after year, it took me 17 years and 114 days to become an overnight success.*
+
+~ **Lionel Messi**
+
+---
+
+*Thinking of doing internship at SKPL Kitchen Services..🤔🤔*
+
+<sub>2nd December, 2018</sub>
+
+~ **evi1haxor**
+
+---
+
+*With BB111 and PH111 lab exercises, many JEE archive questions started making sense.
+Like e/m ratio estimation, Polarization of light, and some more from Physics and potentiometric pH measurement (specially), Autoclave techniques, specrtophotometry from Bioscience and Bioengineering lab exercises.*
+
+<sub>2nd December, 2018</sub>
+
+~ **evi1haxor**
+
+---
+
+
+*Social learning is the root of culture.*
+
+<sub>2nd December, 2018</sub>
+
+---
+
+
 
 *What we see depends mainly on what we look for.*
 
@@ -314,7 +353,7 @@ Me, on July 24 2018: *Although I'm 18 already, but I still feel that people don'
 
 *INSERT INTO list of things that sucks VALUES ( लड़की Quota in JEE);*
 
-~ **evi1evilhaxor**
+~ **evi1haxor**
 
 ---
 
