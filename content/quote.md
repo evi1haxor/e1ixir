@@ -9,7 +9,7 @@ draft: false
 
 ---
 
-*People often ask me why I look sleep deprived all the time. So the construct I generally use to reason them goes like- "See, when people sleep, I do work..." Although, major portion of my work power goes in trying not to fall asleep. And another considerable, if not rest of it goes in convincing myself that I'm doing some constructive work. This thing sux!*
+*People often ask me why I look sleep deprived all the time. So the construct I generally use to reason them goes like- "See, when people sleep, I do work..." Although, major portion of my work power goes in trying not to fall asleep. And another considerable, if not rest of it goes in convincing myself that I'm doing some productive work. This thing sux!*
 
 <sub>21st March, 2019</sub>
 
