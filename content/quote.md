@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-> I highly recommend reading my Adages before you start conversation with me from your side. It will help us to have a clear and productive talk. If, by any chance, you also maintain a similar content, I'd like to read it.
+> I highly recommend reading my Adages before you start conversation with me from your side. It will help us to have a clear and productive talk. If, by any chance, you also maintain a similar content, I too would like to read them.
 
 ---
 
