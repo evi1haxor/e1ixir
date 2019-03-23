@@ -4,8 +4,283 @@ date: 2018-11-25T00:46:53+05:30
 draft: false
 ---
 
+
 > I highly recommend reading my Adages before you start conversation with me from your side. It will help us to have a clear and productive talk. If, by any chance, you also maintain a similar content, I'd like to read it.
 
+---
+
+*People often ask me why I look sleep deprived all the time. So the construct I generally use to reason them goes like- "See, when people sleep, I do work..." Although, major portion of my work power goes in trying not to fall asleep. And another considerable, if not rest of it goes in convincing myself that I'm doing some constructive work. This thing sux!*
+
+<sub>21st March, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*Holi is not happy. Holi is demoness on fire.*
+
+<sub>21st March, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*To most of you,*
+
+*"Your existence disturbs me. Please stop existing."*
+
+<sub>21st March, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*Status update- 4th and last day at Mount Abu: 
+
+*So it's about time for us to leave this exquisite cityscape. I just can't resist repeating that our group experience really was freakin Abulous!*
+
+*All in all, there are worse places to be at...*
+
+<sub>20th March, 2019</sub>
+
+~ **evi1haxor** (on Mt. Abu trip)
+
+---
+
+*They kept urging  me to advance more in the wild. Not that I'm scared (of sloth bears) or something, just I had a birthday to have. So had to ditch the plan of going to wildlife sanctuary... I take the blame.*
+
+*(PS: It ain't no birthday blues)*
+
+<sub>17th March, 2019</sub>
+
+~ **evi1haxor** (on Mt. Abu trip)
+
+---
+
+*"Power corrupts and absolute power corrupts absolutely."*
+
+<sub>14th March, 2019</sub>
+
+~ **Lord Acton**
+
+---
+
+*Okay! Here's some advise...create your own thread instead of bumping into one from 2004.*
+
+<sub>10th March, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*Do not allow competition to stifle your creativity.*
+
+<sub>21st Februaruy, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*"Drowning in information, starving for knowledge"
+*
+
+<sub>20th February, 2019</sub>
+
+~ **Information Paradox**
+
+---
+
+*"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
+
+<sub>19th February, 2019</sub>
+
+~ **Antoine de Saint-Exupery**
+
+---
+
+*Literally anybody and everybody at IITJ: "First year! Aa jao sare... Aur apne bhaiyon ko bhi bulalo phone karke.."*
+
+<sub>16th February, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*"Money can't buy happiness, but love can't buy a Ferrari either."*
+
+<sub>24th January, 2019</sub>
+
+~ **The Tweet Of God**
+
+---
+
+*"In quoting others, we cite ourselves."*
+
+<sub>21st January, 2019</sub>
+
+~ **Julio Cortázar**
+
+---
+
+*Then I pondered- "Lets do the hard part of biology..."*
+
+<sub>21st January, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*To avoid awkward situations, I generally prefer stairs over elevators.*
+
+<sub>14th January, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*Higher the frustration, better is the code.*
+
+<sub>11th January, 2019</sub>
+
+---
+
+*"The cake is a lie! And so is the bash."*
+
+<sub>9th January, 2019</sub>
+
+~ **Someone on the internet**
+
+---
+
+*"When life gives you lemons, don't make lemonade. Make life take the lemons back! Get mad! I don't want your damn lemons, what the hell am I supposed to do with these? Demand to see life's manager! Make life rue the day it thought it could give Cave Johnson lemons! Do you know who I am? I'm the man who's gonna burn your house down!  With the lemons! I'm  gonna get my engineers to invent a combustible  lemon that burns your house down!"*
+
+<sub>9th January, 2019</sub>
+
+~ **Cave Johnson (a fictional character)**
+
+---
+
+*Indian public polity is about Quotes and Quotas.*
+
+<sub>9th January, 2019</sub>
+
+~ **KBS Sidhu**
+
+---
+
+*Every biopic is myopic*
+
+<sub>9th January, 2019</sub>
+
+~ **KBS Sidhu**
+
+---
+
+*People and their dumb WhatsApp statuses....*
+
+<sub>6th January, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*"By failing to prepare, you are preparing to fail."*
+
+<sub>5th January, 2019</sub>
+
+~ **Benjamin Franklin**
+
+---
+
+*I have many pets. I love my pets. But I can't see them. They live all over me.*
+
+<sub>4th Januaruy, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*Remember 2018?*
+
+<sub>2nd January, 2019</sub>
+
+~ **Gary Vaynerchuk**
+
+---
+
+*On my standard scale of irony, I rate the statement- "Happy new year", 7.77 out of 10*
+
+<sub>1st January, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*"When the wise man points at the moon, the idiot looks at the finger!" *
+
+<sub>1st January, 2019</sub>
+
+~ **Confucius**
+
+---
+
+*2019.... I'm having a funny feeling about it*
+
+<sub>1st January, 2019</sub>
+
+~ **evi1haxor**
+
+---
+
+*Whenever I come to Jodhpur from my home, Lucknow, I get westernised.*
+
+<sub>31st December, 2018</sub>
+
+~ **evi1haxor**
+
+---
+
+*My new year resolution:*
+*Jan 1: read crispr*
+*Jan 2: learn to read and write Korean*
+*Jan 3: learn Haskell*
+
+*Take rest of the year off...*
+
+<sub>31st December, 2018</sub>
+
+---
+
+*Every news title is a propaganda...and so are my tweets*
+
+<sub>30th December, 2018</sub>
+
+~ **evi1haxor**
+
+---
+
+*I'm going to do a blog post on "How to get extra biscuits at SKPL", that is if laziness doesn't get the best of me... Let's see how it goes*
+
+<sub>29th December, 2018</sub>
+
+~ **evi1haxor**
+---
+
+*"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed."8
+
+<sub>29th December, 2018</sub>
+
+~ **Mark Twain**
+
+---
+
+*"If something bores you dig deeper it has probably got a really wierd story behind it somewhere..."*
+
+<sub>28th December, 2018</sub>
+
+~ **Some TED Ed video**
+
+---
 
 *From little acorns mighty oaks do grow.*
 
