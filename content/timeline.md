@@ -4,6 +4,8 @@ title: "Timeline"
 draft: false
 ---
 
+_23rd March, 2019_ **Updated [Adages](https://e1ixir.netlify.com/quote/)**
+
 _27th November, 2018_ **Posted [The Lost Lecture](http://e1ixir.netlify.com/posts/eoas/)**
 
 _25th November, 2018_ **Updated [Adages](https://e1ixir.netlify.com/quote/)**
