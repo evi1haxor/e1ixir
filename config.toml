@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
-    hideCopyright = false
+    hideCopyright = true
 
     # Custom CSS
 	custom_css = []
