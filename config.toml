@@ -1,4 +1,4 @@
-baseurl = "/" # Hostname (and path) to the root.
+baseurl = "http://evi1haxor.github.io/" # Hostname (and path) to the root.
 title = "E1ixir" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en" # The site’s language code.
@@ -38,26 +38,10 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "Telegram"
     weight = 3
     url = "https://t.me/evi1haxor/"
-[[params.social]]
-    name = "E1ixir"
-    weight = 3
-    url = "https://t.me/E1ixir/"
-[[params.social]]
-    name = "Adages"
-    weight = 4
-    url = "/quote/"
 
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Redirect"
     weight = 1
     url  = "/posts/"
-[[menu.main]]
-    name = "Brainiac"
-    weight = 2
-    url = "/about/"
-[[menu.main]]
-    name = "Timeline"
-    weight = 3
-    url  = "/timeline/"
